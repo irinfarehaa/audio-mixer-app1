@@ -1,0 +1,9 @@
+**/node_modules/
+*.tgz
+debug.log
+
+gulpfile.js
+webpack.*
+**/.vscode
+.npmignore
+.gitignore
